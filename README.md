@@ -1,5 +1,5 @@
----
 title: English to Hindi Translation
+
 
 
 # English to Hindi Translation – Coupled Attention Transformer
